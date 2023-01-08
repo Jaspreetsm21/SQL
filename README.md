@@ -2,14 +2,20 @@
 
 
 1. Joins
+
+
 ![image](https://user-images.githubusercontent.com/60583082/211200882-7604b510-e611-4682-b28b-3bf81a1cca47.png)
 
 ![image](https://user-images.githubusercontent.com/60583082/211200847-2b4ba5bb-c43e-43f7-b1d3-f25747616c3b.png)
 
 3. Dates Formatting
-4. Sub-query and CTE
-5. Ranking 
-6. Scalar Function and 
-7. Create Table and Views
-8. Filtering and 
+
+![image](https://user-images.githubusercontent.com/60583082/211203829-d4744edb-49fe-4991-8df6-e25ba51fee7b.png)
+
+
+5. Sub-query and CTE
+6. Ranking 
+7. Scalar Function and 
+8. Create Table and Views
+9. Filtering and 
 
