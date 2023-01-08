@@ -15,6 +15,9 @@
 
 5. Sub-query and CTE
 6. Ranking 
+
+![image](https://user-images.githubusercontent.com/60583082/211204151-4fe4a581-af92-41c8-a853-3737a48303d5.png)
+
 7. Scalar Function and 
 8. Create Table and Views
 9. Filtering and 
