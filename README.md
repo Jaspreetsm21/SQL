@@ -1,5 +1,11 @@
 # SQL - Content
 
+Useful Website:
+1. https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+2. https://help.sap.com/docs/HANA_SERVICE_CF/7c78579ce9b14a669c1f3295b0d8ca16/209f228975191014baed94f1b69693ae.html?locale=en-US
+3. https://www.w3schools.com/sql/exercise.asp?filename=exercise_functions3
+
+## Content 
 
 1. Joins
 
