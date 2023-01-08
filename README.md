@@ -1,6 +1,6 @@
-# SQL 
+# SQL - Content
 
-## Content
+
 1. Joins
 2. Dates Formatting
 3. Sub-query and CTE
