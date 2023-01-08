@@ -32,6 +32,11 @@
  
  
  
-9. Create Table and Views
-10. Filtering and Case Statement/coalesce 
+6. Create Table and Views
+
+![image](https://user-images.githubusercontent.com/60583082/211207202-b6b9892f-a608-4887-a9d5-fb79c62eb4d3.png)
+
+7. Filtering and Case Statement/coalesce 
+
+![image](https://user-images.githubusercontent.com/60583082/211206989-d9cdce77-0c2a-4a83-a6c6-e6125999702d.png)
 
