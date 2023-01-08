@@ -18,7 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/60583082/211204151-4fe4a581-af92-41c8-a853-3737a48303d5.png)
 
-7. Scalar Function and 
+![image](https://user-images.githubusercontent.com/60583082/211204508-988e8ad9-4a07-4621-a123-9bef2a7f6778.png)
+
+7. Scalar and Agg function
 8. Create Table and Views
 9. Filtering and 
 
