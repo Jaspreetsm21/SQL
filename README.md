@@ -24,6 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/60583082/211205519-dd316de3-e140-4918-a497-fb9609d2f2b4.png)
  
+![image](https://user-images.githubusercontent.com/60583082/211205646-d45ecdfb-f07f-4237-a2bd-8f7036b3a3d3.png)
+ 
+ 
+ 
 9. Create Table and Views
 10. Filtering and Case Statement/coalesce 
 
